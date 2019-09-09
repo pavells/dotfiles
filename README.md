@@ -1,10 +1,11 @@
 # Dotfiles
 
-My personal confg
+My first dotfiles :)
 
-##Included Configurations
+## Included Configurations
 
 * i3w
+![i3](https://github.com/pavells/dotfiles/blob/screenshot/screenshot/i3wm.png)
 * i3-status
 * 13-scrot
 * vim
